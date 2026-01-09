@@ -1,3 +1,0 @@
---- PROJECT FILE HANDLING ---
-The recorded age is: 25
-File successfully created today.
